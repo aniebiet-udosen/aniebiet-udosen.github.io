@@ -6,7 +6,6 @@ categories: website
 tags: [Github, Tech Expert Academy, website]
 ---
 
-## How i built my first website
 
 I followed the step-by step tutorial provided by first creating a GitHub account
 I forked a repository from https://github.com/datamaunz

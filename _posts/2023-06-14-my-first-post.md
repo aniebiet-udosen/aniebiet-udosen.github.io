@@ -1,0 +1,15 @@
+---
+layout: post
+title: How i built my first website
+subtitle: Quick summary
+categories: website
+tags: [Github, Tech Expert Academy, website]
+---
+
+## How i built my first website
+
+I followed the step-by step tutorial provided by first creating a GitHub account
+I forked a repository from https://github.com/datamaunz
+I renamed the forked repository 101-incorporated.github.io
+I edited the files as described in the README.md
+Now i am writing my first post by following the directives that i got from the README file
